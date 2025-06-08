@@ -1,8 +1,11 @@
-# Random_Restaurant
+# 1. Random_Restaurant(Intro Dev)
 Started from difficulty choosing what to eat...
 점심에 무엇을 먹을지에 대한 고민으로 시작하게 된...
 
-Goal. Randomly choose a restaurant with given filter based on location and radius. 
+Goal. Introducing myself about Web development. 
+웹 개발에 대해서 입문하기. 
+
+Randomly choose a restaurant with given filter based on location and radius. 
 목표. 주어진 좌표와 반경 내에서 주어진 필터값을 적용하여 무작위로 식당 하나를 반환하는 것. 
 
 Direction 1. Pulling up a list of restaurants for a specific coordinates from Kakao Map API
